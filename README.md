@@ -1,6 +1,8 @@
 # UE4-MotionComparator-Plugin
  The repository containing my motion comparator plugin
 
+Click https://youtu.be/LZW51P8nFBk for a demonstration and tutorial
+
 Usage instructions:
 
 1. Drag this folder (MotionComparator) into the plugins folder of your project - you can create the 'Plugins' folder if you don't have one yet
